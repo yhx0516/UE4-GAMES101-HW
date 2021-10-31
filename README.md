@@ -1,5 +1,5 @@
 # UE4-GAMES101-HW
-GAMES101 homework by using UE4
+GAMES101 homework by using UE4.26.2
 
 # 预览
 - [作业0 矩阵初识](https://www.cnblogs.com/shiroe/p/15428717.html)
